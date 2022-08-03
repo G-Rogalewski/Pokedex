@@ -1,0 +1,1 @@
+<p>Esse projeto consiste em uma Pokedex interativa feita com JavaScript e que integra dados com a API, nela é possivel pesquisar todos os pokemons da geração 5 tanto por seu nome quanto por seu número.</p>
